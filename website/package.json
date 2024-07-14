@@ -1,0 +1,22 @@
+{
+  "name": "http2-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "express": "^4.17.1",
+    "multer": "^1.4.5-lts.1",
+    "path": "^0.12.7",
+    "rec.la": "^0.3.2",
+    "request": "^2.88.2",
+    "serve-index": "^1.9.1",
+    "spdy": "^4.0.2"
+  }
+}
